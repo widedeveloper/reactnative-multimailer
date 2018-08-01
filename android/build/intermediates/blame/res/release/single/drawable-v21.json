@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

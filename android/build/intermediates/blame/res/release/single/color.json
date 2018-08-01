@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/color/abc_secondary_text_material_light.xml"
+    }
+]

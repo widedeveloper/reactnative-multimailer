@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/react-native-mail/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b2d379bc9007f75545c2d85d3127498d/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
